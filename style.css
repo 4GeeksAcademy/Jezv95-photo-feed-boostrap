@@ -1,0 +1,15 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-color: gainsboro;
+}
+
+.header{
+    height: 5rem;
+    align-items: center;
+    font-size: large;
+}
+
+img{
+    object-fit: fill;
+}
