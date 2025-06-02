@@ -1,15 +1,21 @@
 body{
     height: 100%;
     width: 100%;
-    background-color: gainsboro;
+  
 }
 
-.header{
-    height: 5rem;
-    align-items: center;
-    font-size: large;
+.logo-ig{
+    font-size: larger;
+  
 }
 
-img{
-    object-fit: fill;
+.headerButtons{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.view-icons{
+    display: flex;
+    justify-content: center;
 }
