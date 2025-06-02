@@ -19,3 +19,7 @@ body{
     display: flex;
     justify-content: center;
 }
+
+.card{
+    justify-self: center;
+}
