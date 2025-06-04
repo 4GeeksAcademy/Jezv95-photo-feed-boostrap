@@ -16,11 +16,6 @@ body{
     
 }
 
-.view-icons{
-    display: flex;
-    justify-content: center;
-}
-
-.card{
-    justify-self: center;
+.bi-grid-3x3,.bi-square-fill{
+    color: blue;
 }
